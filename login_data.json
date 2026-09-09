@@ -5,16 +5,16 @@
     "timelimit": 604800,
     "conc": 100
   },
-  "hanz": {
-    "password": "vinzganteng",
-    "expired": "2026-1-8",
-    "timelimit": 260,
-    "conc": 1
+  "seikyou": {
+    "password": "seikyou123",
+    "expired": "2099-1-8",
+    "timelimit": 1000,
+    "conc": 2
   },
-  "Pimzz": {
-    "password": "1",
-    "expired": "2026-11-30",
-    "timelimit": 300,
-    "conc": 1
+  "trxsl7": {
+    "password": "trxsl7",
+    "expired": "2099-11-30",
+    "timelimit": 1000,
+    "conc": 2
   }
 }
